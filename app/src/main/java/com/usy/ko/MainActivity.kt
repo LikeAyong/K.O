@@ -29,27 +29,27 @@ class MainActivity : AppCompatActivity() {
         }
 
         imageButton2.setOnClickListener {
-            val intent = Intent(this@MainActivity, NextActivity::class.java)
+            val intent = Intent(this@MainActivity, NextActivity2::class.java)
             startActivity(intent)
         }
 
         imageButton3.setOnClickListener {
-            val intent = Intent(this@MainActivity, NextActivity::class.java)
+            val intent = Intent(this@MainActivity, NextActivity3::class.java)
             startActivity(intent)
         }
 
         imageButton4.setOnClickListener {
-            val intent = Intent(this@MainActivity, NextActivity::class.java)
+            val intent = Intent(this@MainActivity, NextActivity4::class.java)
             startActivity(intent)
         }
 
         imageButton5.setOnClickListener {
-            val intent = Intent(this@MainActivity, NextActivity::class.java)
+            val intent = Intent(this@MainActivity, NextActivity5::class.java)
             startActivity(intent)
         }
 
         imageButton6.setOnClickListener {
-            val intent = Intent(this@MainActivity, NextActivity::class.java)
+            val intent = Intent(this@MainActivity, NextActivity6::class.java)
             startActivity(intent)
         }
 

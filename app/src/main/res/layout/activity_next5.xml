@@ -20,308 +20,197 @@
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck1" />
+                app:srcCompat="@drawable/gg1" />
 
             <ImageView
                 android:id="@+id/imageView2"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck2" />
+                app:srcCompat="@drawable/gg2" />
 
             <ImageView
                 android:id="@+id/imageView3"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck3" />
+                app:srcCompat="@drawable/gg3" />
 
             <ImageView
                 android:id="@+id/imageView4"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck4" />
+                app:srcCompat="@drawable/gg4" />
 
             <ImageView
                 android:id="@+id/imageView5"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck5" />
+                app:srcCompat="@drawable/gg5" />
 
             <ImageView
                 android:id="@+id/imageView6"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck6" />
+                app:srcCompat="@drawable/gg6" />
 
             <ImageView
                 android:id="@+id/imageView7"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck7" />
+                app:srcCompat="@drawable/gg7" />
 
             <ImageView
                 android:id="@+id/imageView8"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck8" />
+                app:srcCompat="@drawable/gg8" />
 
             <ImageView
                 android:id="@+id/imageView9"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck9" />
+                app:srcCompat="@drawable/gg9" />
 
             <ImageView
                 android:id="@+id/imageView10"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck10" />
+                app:srcCompat="@drawable/gg10" />
 
             <ImageView
                 android:id="@+id/imageView11"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck11" />
+                app:srcCompat="@drawable/gg11" />
 
             <ImageView
                 android:id="@+id/imageView12"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck12" />
+                app:srcCompat="@drawable/gg12" />
 
             <ImageView
                 android:id="@+id/imageView13"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck13" />
+                app:srcCompat="@drawable/gg13" />
 
             <ImageView
                 android:id="@+id/imageView14"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck14" />
+                app:srcCompat="@drawable/gg14" />
 
             <ImageView
                 android:id="@+id/imageView15"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck15" />
+                app:srcCompat="@drawable/gg15" />
 
             <ImageView
                 android:id="@+id/imageView16"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck16" />
+                app:srcCompat="@drawable/gg16" />
+
+            <ImageView
+                android:id="@+id/imageView17"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/gg17" />
 
             <ImageView
                 android:id="@+id/imageView18"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck18" />
+                app:srcCompat="@drawable/gg18" />
 
             <ImageView
                 android:id="@+id/imageView19"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck19" />
+                app:srcCompat="@drawable/gg19" />
 
             <ImageView
                 android:id="@+id/imageView20"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck20" />
+                app:srcCompat="@drawable/gg20" />
 
             <ImageView
                 android:id="@+id/imageView21"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck21" />
+                app:srcCompat="@drawable/gg21" />
 
             <ImageView
                 android:id="@+id/imageView22"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck22" />
+                app:srcCompat="@drawable/gg22" />
 
             <ImageView
                 android:id="@+id/imageView23"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck23" />
+                app:srcCompat="@drawable/gg23" />
 
             <ImageView
                 android:id="@+id/imageView24"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck24" />
+                app:srcCompat="@drawable/gg24" />
 
             <ImageView
                 android:id="@+id/imageView25"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck25" />
+                app:srcCompat="@drawable/gg25" />
 
             <ImageView
                 android:id="@+id/imageView26"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck26" />
+                app:srcCompat="@drawable/gg26" />
 
             <ImageView
                 android:id="@+id/imageView27"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck27" />
+                app:srcCompat="@drawable/gg27" />
 
             <ImageView
                 android:id="@+id/imageView28"
                 android:layout_width="match_parent"
                 android:layout_height="226dp"
                 android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck28" />
+                app:srcCompat="@drawable/gg28" />
 
-            <ImageView
-                android:id="@+id/imageView29"
-                android:layout_width="match_parent"
-                android:layout_height="226dp"
-                android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck29" />
-
-
-            <ImageView
-                android:id="@+id/imageView30"
-                android:layout_width="match_parent"
-                android:layout_height="226dp"
-                android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck30" />
-
-
-            <ImageView
-                android:id="@+id/imageView31"
-                android:layout_width="match_parent"
-                android:layout_height="226dp"
-                android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck31" />
-
-
-            <ImageView
-                android:id="@+id/imageView32"
-                android:layout_width="match_parent"
-                android:layout_height="226dp"
-                android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck32" />
-
-
-            <ImageView
-                android:id="@+id/imageView33"
-                android:layout_width="match_parent"
-                android:layout_height="226dp"
-                android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck33" />
-
-
-            <ImageView
-                android:id="@+id/imageView34"
-                android:layout_width="match_parent"
-                android:layout_height="226dp"
-                android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck34" />
-
-
-            <ImageView
-                android:id="@+id/imageView35"
-                android:layout_width="match_parent"
-                android:layout_height="226dp"
-                android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck35" />
-
-
-            <ImageView
-                android:id="@+id/imageView36"
-                android:layout_width="match_parent"
-                android:layout_height="226dp"
-                android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck36" />
-
-
-            <ImageView
-                android:id="@+id/imageView37"
-                android:layout_width="match_parent"
-                android:layout_height="226dp"
-                android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck37" />
-
-
-            <ImageView
-                android:id="@+id/imageView38"
-                android:layout_width="match_parent"
-                android:layout_height="226dp"
-                android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck38" />
-
-
-            <ImageView
-                android:id="@+id/imageView39"
-                android:layout_width="match_parent"
-                android:layout_height="226dp"
-                android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck39" />
-
-
-            <ImageView
-                android:id="@+id/imageView40"
-                android:layout_width="match_parent"
-                android:layout_height="226dp"
-                android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck40" />
-
-
-            <ImageView
-                android:id="@+id/imageView41"
-                android:layout_width="match_parent"
-                android:layout_height="226dp"
-                android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck41" />
-
-
-            <ImageView
-                android:id="@+id/imageView42"
-                android:layout_width="match_parent"
-                android:layout_height="226dp"
-                android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck42" />
-
-
-            <ImageView
-                android:id="@+id/imageView43"
-                android:layout_width="match_parent"
-                android:layout_height="226dp"
-                android:layout_margin="5dp"
-                app:srcCompat="@drawable/jck43" />
 
 
 

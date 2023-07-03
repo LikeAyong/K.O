@@ -34,7 +34,7 @@
         android:layout_height="119dp"
         app:layout_constraintBottom_toTopOf="@+id/imageButton5"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.16"
+        app:layout_constraintHorizontal_bias="0.188"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton1"
         app:srcCompat="@drawable/your_image_2" />
@@ -43,7 +43,7 @@
         android:id="@+id/imageButton4"
         android:layout_width="103dp"
         android:layout_height="119dp"
-        app:layout_constraintBottom_toTopOf="@+id/imageButton6"
+        app:layout_constraintBottom_toTopOf="@+id/imageButton5"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.762"
         app:layout_constraintStart_toStartOf="parent"
@@ -59,7 +59,7 @@
         app:layout_constraintHorizontal_bias="0.162"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton1"
-        app:layout_constraintVertical_bias="0.549"
+        app:layout_constraintVertical_bias="0.705"
         app:srcCompat="@drawable/your_image_2" />
 
     <ImageButton
@@ -71,8 +71,124 @@
         app:layout_constraintHorizontal_bias="0.801"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton4"
-        app:layout_constraintVertical_bias="0.244"
+        app:layout_constraintVertical_bias="0.414"
         app:srcCompat="@drawable/your_image_2" />
+
+    <EditText
+        android:id="@+id/editTextText3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:text="HTML5"
+        app:layout_constraintBottom_toTopOf="@+id/imageButton1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.124"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.657" />
+
+    <EditText
+        android:id="@+id/editTextText4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:text="DataBase"
+        app:layout_constraintBottom_toTopOf="@+id/imageButton3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.124"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton1"
+        app:layout_constraintVertical_bias="0.486" />
+
+    <EditText
+        android:id="@+id/editTextText5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:text="JAVA"
+        app:layout_constraintBottom_toTopOf="@+id/imageButton5"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.124"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView49" />
+
+    <ImageView
+        android:id="@+id/imageView46"
+        android:layout_width="38dp"
+        android:layout_height="49dp"
+        android:layout_marginStart="-20dp"
+        app:layout_constraintBottom_toTopOf="@+id/editTextText4"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton2"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/imageButton1"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText3"
+        app:layout_constraintVertical_bias="0.815"
+        app:srcCompat="@drawable/html" />
+
+    <ImageView
+        android:id="@+id/imageView48"
+        android:layout_width="38dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="-50dp"
+        app:layout_constraintBottom_toTopOf="@+id/imageButton4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.644"
+        app:layout_constraintStart_toEndOf="@+id/editTextText4"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton2"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/html" />
+
+    <ImageView
+        android:id="@+id/imageView49"
+        android:layout_width="35dp"
+        android:layout_height="42dp"
+        android:layout_marginStart="-20dp"
+        app:layout_constraintBottom_toTopOf="@+id/editTextText5"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton4"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/imageButton3"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton3"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/database" />
+
+    <ImageView
+        android:id="@+id/imageView51"
+        android:layout_width="35dp"
+        android:layout_height="42dp"
+        android:layout_marginEnd="-120dp"
+        app:layout_constraintBottom_toTopOf="@+id/editTextText5"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton4"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/imageButton3"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton3"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/database" />
+
+    <ImageView
+        android:id="@+id/imageView53"
+        android:layout_width="65dp"
+        android:layout_height="106dp"
+        android:layout_marginStart="-100dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton6"
+        app:layout_constraintStart_toEndOf="@+id/imageButton5"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText5"
+        app:srcCompat="@drawable/java" />
+
+    <ImageView
+        android:id="@+id/imageView54"
+        android:layout_width="65dp"
+        android:layout_height="106dp"
+        android:layout_marginEnd="-130dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/imageButton6"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toEndOf="@+id/imageButton5"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText5"
+        app:srcCompat="@drawable/java" />
 
     <!-- 추가적인 ImageButton들을 여기에 추가해주세요 -->
 

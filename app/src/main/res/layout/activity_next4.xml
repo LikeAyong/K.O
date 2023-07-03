@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe1" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe2" />
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe3" />
+
+            <ImageView
+                android:id="@+id/imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe4" />
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe5" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe6" />
+
+            <ImageView
+                android:id="@+id/imageView7"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe7" />
+
+            <ImageView
+                android:id="@+id/imageView8"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe8" />
+
+            <ImageView
+                android:id="@+id/imageView9"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe9"/>
+
+            <ImageView
+                android:id="@+id/imageView10"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe10" />
+
+            <ImageView
+                android:id="@+id/imageView11"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe11" />
+
+            <ImageView
+                android:id="@+id/imageView12"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe12" />
+
+            <ImageView
+                android:id="@+id/imageView13"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe13" />
+
+            <ImageView
+                android:id="@+id/imageView14"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe14" />
+
+            <ImageView
+                android:id="@+id/imageView15"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe15" />
+
+            <ImageView
+                android:id="@+id/imageView16"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe16" />
+
+            <ImageView
+                android:id="@+id/imageView17"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe17" />
+
+            <ImageView
+                android:id="@+id/imageView18"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe18" />
+
+            <ImageView
+                android:id="@+id/imageView19"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe19" />
+
+            <ImageView
+                android:id="@+id/imageView20"
+                android:layout_width="match_parent"
+                android:layout_height="226dp"
+                android:layout_margin="5dp"
+                app:srcCompat="@drawable/coffe20" />
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
