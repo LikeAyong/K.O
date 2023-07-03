@@ -3,6 +3,7 @@ package com.usy.ko
 import com.usy.ko.R.drawable
 import android.content.Intent
 import android.os.Bundle
+import android.widget.Button
 import android.widget.ImageButton
 import androidx.appcompat.app.AppCompatActivity
 
@@ -20,6 +21,7 @@ class MainActivity : AppCompatActivity() {
         val imageButton4 = findViewById<ImageButton>(R.id.imageButton4)
         val imageButton5 = findViewById<ImageButton>(R.id.imageButton5)
         val imageButton6 = findViewById<ImageButton>(R.id.imageButton6)
+        val btnTrans = findViewById<Button>(R.id.btnTrans)
 
         // 추가적인 ImageButton 변수들을 여기에 선언해주세요
 
@@ -50,6 +52,10 @@ class MainActivity : AppCompatActivity() {
 
         imageButton6.setOnClickListener {
             val intent = Intent(this@MainActivity, NextActivity6::class.java)
+            startActivity(intent)
+        }
+        btnTrans.setOnClickListener {
+            val intent = Intent(this@MainActivity, Translate::class.java)
             startActivity(intent)
         }
 

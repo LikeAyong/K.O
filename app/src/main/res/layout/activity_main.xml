@@ -190,6 +190,18 @@
         app:layout_constraintTop_toBottomOf="@+id/editTextText5"
         app:srcCompat="@drawable/java" />
 
+    <Button
+        android:id="@+id/btnTrans"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="19dp"
+        android:text="Translation"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView53" />
+
     <!-- 추가적인 ImageButton들을 여기에 추가해주세요 -->
 
 </androidx.constraintlayout.widget.ConstraintLayout>
