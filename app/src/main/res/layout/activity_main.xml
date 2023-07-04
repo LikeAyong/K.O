@@ -16,7 +16,7 @@
         app:layout_constraintHorizontal_bias="0.188"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/your_image_1" />
+        app:srcCompat="@drawable/jkc1_2" />
 
     <ImageButton
         android:id="@+id/imageButton2"
@@ -26,7 +26,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/imageButton1"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/your_image_2" />
+        app:srcCompat="@drawable/pop" />
 
     <ImageButton
         android:id="@+id/imageButton3"
@@ -37,7 +37,7 @@
         app:layout_constraintHorizontal_bias="0.188"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton1"
-        app:srcCompat="@drawable/your_image_2" />
+        app:srcCompat="@drawable/db" />
 
     <ImageButton
         android:id="@+id/imageButton4"
@@ -48,7 +48,7 @@
         app:layout_constraintHorizontal_bias="0.762"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton2"
-        app:srcCompat="@drawable/your_image_2" />
+        app:srcCompat="@drawable/db" />
 
     <ImageButton
         android:id="@+id/imageButton5"
@@ -60,7 +60,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton1"
         app:layout_constraintVertical_bias="0.705"
-        app:srcCompat="@drawable/your_image_2" />
+        app:srcCompat="@drawable/gg" />
 
     <ImageButton
         android:id="@+id/imageButton6"
@@ -72,7 +72,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton4"
         app:layout_constraintVertical_bias="0.414"
-        app:srcCompat="@drawable/your_image_2" />
+        app:srcCompat="@drawable/coding" />
 
     <EditText
         android:id="@+id/editTextText3"
